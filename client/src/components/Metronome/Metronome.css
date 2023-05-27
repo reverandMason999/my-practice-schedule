@@ -1,0 +1,27 @@
+.metronome {
+    position: fixed;
+    /* bottom: 0; */
+    display: block;
+    border: 1px solid #5bc0be;
+    width: 300px;
+    left: 0;
+    margin-top: 32%;
+}
+
+.bpm-p{
+    color: #6fffe9;
+    text-align: center;
+}
+
+.bpm-slider {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  
+   
+}
+
+.metronome-btn {
+    margin-left: 100px;
+    
+}

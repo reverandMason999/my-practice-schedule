@@ -1,0 +1,14 @@
+
+.header {
+    padding: 15px 0;
+    position: fixed;
+    top: 0;
+    width: 100vw;
+    margin-bottom: auto;
+    text-align: center;
+    background-color: #1c2541;
+}
+
+.logo {
+    color: #6fffe9;
+}

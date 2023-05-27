@@ -1,0 +1,49 @@
+.login-card {
+    display: block;
+    border: 1px solid #5bc0be;
+    background-color: #1c2541;
+    width: 20%;
+    border-radius: 5px;
+    padding: 10px 20px 30px;
+    margin-top: 150px;
+    margin-left: 550px;
+}
+
+.login-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+    
+    
+}
+
+.btn {
+    width: 70px;
+    cursor: pointer;
+    margin-left: 100px;
+    margin-top: 10px;
+    background-color: #5bc0be;
+}
+
+.register-btn {
+    width: 100px;
+    cursor: pointer;
+    margin-left: 85px;
+    margin-top: 10px;
+    background-color: #5bc0be;
+}
+
+.google-btn {
+    margin-left: 40px
+}
+
+h3, h1 {
+    text-align: center;
+    color: #6fffe9;
+}
+
+
+input {
+    margin: 8px;
+}

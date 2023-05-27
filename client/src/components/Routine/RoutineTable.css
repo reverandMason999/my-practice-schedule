@@ -1,0 +1,31 @@
+
+
+.table-contents {
+    display: block;
+    position: absolute;
+    right: 25%;
+    margin-top: 100px;
+    min-width: 600px;
+    min-height: 600px;
+    text-align: center;
+    margin-left: 100px;
+}
+.table-contents td,
+.table-contents th {
+    color:  #6fffe9;
+    font-size: larger;
+    border: 1px solid #5bc0be;
+    padding: 15px 20px;
+}
+
+.table-contents tbody tr {
+    border-bottom: 1px solid #0b132b;
+    background-color: #1c2541;
+}
+
+.table-contents tbody tr:nth-of-type(even) {
+    background-color: #0b132b;
+}
+
+
+

@@ -1,0 +1,15 @@
+.register-card {
+    display: block;
+    border: 1px solid #5bc0be;
+    background-color: #1c2541;
+    width: 200px;
+    height: 250px;
+    border-radius: 5px;
+    padding: 10px 20px 30px;
+    margin-top: 250px;
+    margin-left: 650px;
+}
+
+h1 {
+    color: #6fffe9;
+}
